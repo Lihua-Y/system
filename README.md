@@ -1,4 +1,5 @@
-![image-20220213204047803]([https://github.com/LihuaYang404/images/blob/main/image/image1.png](https://github.com/Lihua-Y/images/blob/main/system.png))
+
+![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/system.png)
 # 1.安装（INSTALL)
 ## 第一步（FIRST STEP) 安装ANACONDA<br>
 1）访问Anaconda官网：https://www.anaconda.com/products/individual<br>
