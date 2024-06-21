@@ -1,5 +1,8 @@
 
-![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/system.png)
+![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s1.png)
+![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s3.png)
+![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s4.png)
+![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s5.png)
 # 1.安装（INSTALL)
 ## 第一步（FIRST STEP) 安装ANACONDA<br>
 1）访问Anaconda官网：https://www.anaconda.com/products/individual<br>
