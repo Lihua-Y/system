@@ -1,11 +1,11 @@
-# 0.系统界面如下
+# 1.系统界面如下
 ![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s1.png)
 ![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s3.png)
-## 单目标跟踪
+## 1.1单目标跟踪
 ![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s4.png)
-## 实时流量折线图
+## 1.2实时流量折线图
 ![image-20220213204047803](https://github.com/Lihua-Y/images/blob/main/s5.png)
-# 1.安装（INSTALL)
+# 2.安装（INSTALL)
 ## 第一步（FIRST STEP) 安装ANACONDA<br>
 1）访问Anaconda官网：https://www.anaconda.com/products/individual<br>
 2）选择相应的操作系统版本并下载对应的安装包（推荐下载64位版本）<br>
@@ -16,7 +16,7 @@ conda create --name 自命名 python=3.9.16<br>
 ## 第二步（SECOND STEP) pip install -r requirements.txt<br>
 激活环境并安装相应的库：  activate 自命名-> pip install -r requirements.txt<br>
 这一步会安装cpu版本的torch与torchvision，如果想要更好的帧数体验请安装cuda版本哦，安装cuda版本很简单，首先要有英伟达显卡，其次nvdia-smi查看cuda driver驱动版本号，上英伟达官网选择对应cuda版本号的cuda套件安装，最后去torch官网选择自己安装的cuda套件版本使用conda或者pip安装即可。<br>
-# 2.运行
+# 3.运行
 配置好环境后在含有main.py的工作目录下运行main.py即可。
 
 ## Multi-Object Tracking Intelligent Traffic Monitoring System based on YOLOv5 and PyQT
@@ -34,7 +34,7 @@ activate your_env_name -> pip install -r requirements.txt<br>
 
 This step will install the CPU version of torch and torchvision. If you want a better frame rate experience, please install the CUDA version. Installing the CUDA version is very simple. First, you need an NVIDIA graphics card. Next, use nvidia-smi to check the version number of the CUDA driver. Then, select the corresponding CUDA package version according to the CUDA driver version number on the NVIDIA official website, and finally, choose the CUDA package version you installed and use conda or pip to install it on the torch official website.
 
-# 3. Running
+# 4. Running
 After configuring the environment, run main.py in the working directory that contains the file. 
 
 ## 参考(REFERENCE)
